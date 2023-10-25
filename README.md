@@ -31,10 +31,3 @@ CREATE TABLE entity_history (
 
 
 
-
-
-
-
-
-
-удалить до конца недели?
